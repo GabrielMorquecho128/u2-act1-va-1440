@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-hipopotamo-1440.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_1440\p1-act1-1440\img-original-1440\img-hipopotamo-1440.jpg
+Formato por extension: .JPG
+Tamano en bytes: 67745
+Tamano en KB: 66.16
+Tamano en MB: 0.0646
+
+DIMENSIONES
+-----------
+Ancho: 679 pixeles
+Alto: 452 pixeles
+Resolucion: 679 x 452
+Total de pixeles: 306,908
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 154.60
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 137.99
+Verde (G): 157.74
+Rojo (R): 168.07
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
